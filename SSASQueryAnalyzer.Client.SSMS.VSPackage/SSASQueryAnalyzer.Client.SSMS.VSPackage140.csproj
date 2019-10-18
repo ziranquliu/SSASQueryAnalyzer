@@ -167,7 +167,7 @@
       <HintPath>Lib\MDXParser.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.AnalysisServices.Controls">
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\Microsoft.AnalysisServices.Controls.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\Microsoft.AnalysisServices.Controls.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Build.Framework" />
     <Reference Include="Microsoft.CSharp" />
@@ -269,13 +269,13 @@
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
     <Reference Include="SQLEditors">
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\Extensions\Application\SQLEditors.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\Extensions\Application\SQLEditors.dll</HintPath>
     </Reference>
     <Reference Include="SqlPackageBase">
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\SqlPackageBase.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\SqlPackageBase.dll</HintPath>
     </Reference>
     <Reference Include="SqlWorkbench.Interfaces">
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\SqlWorkbench.Interfaces.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\SqlWorkbench.Interfaces.dll</HintPath>
     </Reference>
     <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
       <EmbedInteropTypes>False</EmbedInteropTypes>
